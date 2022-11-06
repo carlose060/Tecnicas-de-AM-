@@ -18,3 +18,6 @@ classe definida) ou regressão.
 
 Os algoritmos devem ser treinados usando-se uma estratégia de amostragem, como validação
 cruzada (cross validation) ou hold-out (% treinamento e % teste), para uma avaliação melhor.
+
+
+É necessário implementar um algoritmo: O algoritmo escolhido, foi o KNN (K-Nearest Neighbor), implementado em python.
